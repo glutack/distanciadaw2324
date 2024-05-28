@@ -31,5 +31,5 @@ function suma($a, $b)
  * @return string Un saludo personalizado par el usuario
  */
 function saludo($nombre) {
-	return "Hola, " . $nombre . "!";
+	return "¡Hola, camarada " . $nombre . "!";
 }
